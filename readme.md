@@ -12,9 +12,13 @@ https://www.weatherblock.org
 
 # Contact us
 Telegram: https://t.me/wxbtoken
+
 Twitter: https://www.twitter.com/weatherblockorg
+
 Facebook: https://www.facebook.com/weatherblock
+
 Linkedin: https://www.linkedin.com/company/weatherblock
+
 General Information: mailto:info@weatherblock.org
 # Explore the weather
 https://map.bloomsky.com/
